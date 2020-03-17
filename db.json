@@ -1,4 +1,13 @@
 {
+  "projects": [
+    {
+        "ProjectId": "U3E125",
+        "ProjectName": "UW_LSREF3 Real Estate (Europe) - Datona",
+        "ProjectType": "Underwriting', 'ProjectAlias': 'UW_LSREF3 Real Estate (Europe) - Datona",
+        "ProjectDate": new Date(2015, 8, 14),
+        "Status": "Closed"
+    }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
