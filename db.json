@@ -1,0 +1,14 @@
+{
+        'ProjectId': 'U3E125',
+        'ProjectName': 'UW_LSREF3 Real Estate (Europe) - Datona',
+        'ProjectType': 'Underwriting', 'ProjectAlias': 'UW_LSREF3 Real Estate (Europe) - Datona',
+        'ProjectDate': new Date(2015, 8, 14),
+        'Status': 'Closed'
+    },
+    {
+        'ProjectId': 'U3JR51',
+        'ProjectName': 'UW_LSREF3 Real Estate (Japan) - Queen3',
+        'ProjectType': 'Underwriting',
+        'ProjectAlias': 'UW_LSREF3 Real Estate (Japan) - Queen3',
+        'ProjectDate': new Date(2015, 1, 2), 'Status': 'Closed'
+    }
